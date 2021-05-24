@@ -2,7 +2,6 @@
 
 .cert
 .editorconfig
-.env.development
 
 # dependencies
 /node_modules
